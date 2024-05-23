@@ -2,7 +2,7 @@
 
 ## Setting up a Daily Code Routine For Practice
 
-###First Follow the Following Steps:
+##First Follow the Following Steps:
 
 1. Create a GitHub Account
 If you don't have a GitHub account, sign up at GitHub.com.
