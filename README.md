@@ -61,4 +61,40 @@ Explore GitHub Actions for automation and CI/CD.
 
 #Example Workflow
 
+##Daily Coding Session
 
+Open your terminal and navigate to your repository:
+
+Copy code
+cd ~/path-to-your-repository/daily-coding-practice
+
+Create a new folder for today's date and add your code:
+
+Copy code
+mkdir 2024-05-21
+cd 2024-05-21
+touch main.py
+Write your code in main.py.
+
+
+Commit and Push
+
+Add and commit your changes:
+
+Copy code
+git add .
+git commit -m "Add code for 2024-05-21"
+
+
+Push your changes:
+
+Copy code
+git push origin main
+
+
+
+End of Week Review
+
+Review your code and document your progress in the README.md or a log file.
+
+By following these steps, you can establish a consistent daily coding routine and effectively utilize GitHub to track and share your progress.
