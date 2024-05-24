@@ -2,7 +2,7 @@
 
 ## Setting up a Daily Code Routine For Practice
 
-##First Follow the Following Steps:
+## First Follow the Following Steps:
 
 1. Create a GitHub Account
 If you don't have a GitHub account, sign up at GitHub.com.
@@ -11,9 +11,8 @@ If you don't have a GitHub account, sign up at GitHub.com.
 Install Git on your computer. You can download it from git-scm.com. If you are on a mac like me, you can can install it with <brew install git>
 
 Configure your Git username and email with the following:
-
-<git config --global user.name "Your Name">
-<git config --global user.email "your.email@example.com">
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
 
 3. Create a New Repository
 Go to GitHub and create a new repository. You can name it something like daily-coding-practice.
