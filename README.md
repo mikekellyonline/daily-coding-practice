@@ -8,7 +8,8 @@
 If you don't have a GitHub account, sign up at GitHub.com.
 
 2. Set Up Git
-Install Git on your computer. You can download it from git-scm.com.
+Install Git on your computer. You can download it from git-scm.com. If you are on a mac like me, you can can install it with <brew install git>
+
 Configure your Git username and email with the following:
 
 <git config --global user.name "Your Name">
@@ -59,9 +60,9 @@ Utilize GitHub Issues to track tasks or bugs.
 Use GitHub Projects to organize and prioritize your work.
 Explore GitHub Actions for automation and CI/CD.
 
-#Example Workflow
+# Example Workflow
 
-##Daily Coding Session
+## Daily Coding Session
 
 Open your terminal and navigate to your repository:
 
@@ -71,10 +72,12 @@ cd ~/path-to-your-repository/daily-coding-practice
 Create a new folder for today's date and add your code:
 
 Copy code
-mkdir 2024-05-21
-cd 2024-05-21
-touch main.py
-Write your code in main.py.
+<mkdir 2024-05-21>
+<cd 2024-05-21>
+<touch main.py>
+<touch training.md>
+Record what you are learning in training.md
+Write your code in main.py or other language.
 
 
 Commit and Push
@@ -82,18 +85,19 @@ Commit and Push
 Add and commit your changes:
 
 Copy code
-git add .
-git commit -m "Add code for 2024-05-21"
+<git add .>
+<git commit -m "Add code for 2024-05-21">
 
 
 Push your changes:
 
 Copy code
-git push origin main
+
+<git push origin main>
 
 
 
-End of Week Review
+## End of Week Review
 
 Review your code and document your progress in the README.md or a log file.
 
