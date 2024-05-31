@@ -31,6 +31,7 @@ Prepare a list of resources or projects to work on. This could include coding ch
 Create a folder for each day, e.g., 2024-05-21/, and add your code files in it.
 For example:
 
+## Change all dates to match current dates. 
 <mkdir 2024-05-21>
 <cd 2024-05-21>
 <touch main.py>
